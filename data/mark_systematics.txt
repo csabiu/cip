@@ -1,0 +1,13 @@
+systematic                 mark    slope/range      significance
+psfdepth_g [mag]           z-band  +0.06471           100.3
+psfdepth_g [mag]           W1      +0.02384            41.9
+psfdepth_r [mag]           z-band  +0.07482           116.0
+psfdepth_r [mag]           W1      +0.03066            53.9
+psfdepth_z [mag]           z-band  +0.02846            44.1
+psfdepth_z [mag]           W1      +0.01837            32.3
+galdepth_z [mag]           z-band  +0.02866            44.5
+galdepth_z [mag]           W1      +0.01964            34.5
+EBV [mag]                  z-band  -0.01570            24.3
+EBV [mag]                  W1      -0.00614            10.8
+NOBS_z                     z-band  +0.04419            69.0
+NOBS_z                     W1      +0.02575            45.6

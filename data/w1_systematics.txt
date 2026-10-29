@@ -1,0 +1,7 @@
+systematic                      mark    change over range   significance
+$|$ecliptic latitude$|$ [deg]   $z$-band -0.05068              78.5
+$|$ecliptic latitude$|$ [deg]   W1       -0.01461              25.7
+W1 MW transmission              $z$-band +0.01562              24.2
+W1 MW transmission              W1       +0.00613              10.8
+wisemask_w1                     flagged 0.376% ; mean mark flagged/unflagged: W1 0.9877/0.9998
+wisemask_w2                     flagged 0.120% ; mean mark flagged/unflagged: W1 0.9918/0.9998
