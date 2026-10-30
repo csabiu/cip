@@ -42,7 +42,7 @@ shipped ones of the same name.
 | Bayes factor for B_L,Δ | `fit.py --mockcal` and `fit.py --mockcal --fix-bld` |
 | B_L,Δ with the selection ratio imposed | `fit.py --ratio 1.017` |
 | common mode S and difference D | `fit.py --sumdiff` |
-| CIP limit (Table 3) | `fit.py --product` |
+| CIP limit (Section 5.3) | `fit.py --product` |
 | other LRG multipole rows of Table 2 | `fit.py --mark lumzc` (or mstarfs, lumw1, lumz), and `--cip-positive` |
 | injection fits (Section 6.5, Appendix C5) | `fit.py --mark inj3 --num ninj3`, with `--bldrange 30` for the wider prior |
 
